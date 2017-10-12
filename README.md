@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-This comment should be in the readme-edits.
+Hi, there! I'm Lauren and I'm learning GitHub.
